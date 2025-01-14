@@ -1,2 +1,2 @@
 # imgs
-Internal use
+For internal use only
